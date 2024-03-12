@@ -1,0 +1,7 @@
+{
+    "phpcs.showWarnings": false,
+    "phpcs.ignorePatterns": [
+        "*/from-separate-logic-to.php",
+        "*/ignored-dir/*"
+    ]
+}
